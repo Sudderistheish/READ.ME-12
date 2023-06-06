@@ -1,3 +1,26 @@
+Reading
+JavaScript Canvas
+1.	What does the <canvas> allow a developer to acheive?
+Canvas allows you to achieve photo manipulation, game graphics, data visualization and real-time video processing. 
+2.	What is the importance of the closing `</canvas> tag?
+The `</canvas> is needed to avoid the image from being scaled during rendering and graphics being distorted.
+3.	Explain what the getContext() method does.
+The getContext() method drawing of context on the canvas. It initialize the structure by calling it
+Chart.js Documentation:
+1.	What is Chart.js and how it can be brought into your project?
+Char.js is a open source JavaScript library on Git Hub and it allows you to draw different charts by using html 5 canvas element
+2.	List 3 different Chart types you can create using Chart.js.
+3 different chart types  are line chart, bar chart, and bubble chart.
+Easily Create Stunning Animated Charts with Chart.js
+1.	What are some advantages to displaying data via a chart over a table?
+Tables are general used to look up specific measurements and charts are used to show patterns or relationships in the date for one or mare variable.
+2.	How could Chart.js aid your previously created applications visually?
+It could aid me with creating the boxes for my dog duck product lab by displaying the three different products for the user to click on.
+Bookmark and Review
+Drawing Shapes With Canvas
+Applying Style and Colors - Canvas API
+Drawing Text - Canvas API
+
 # Lab: Fun with Functions
 
 ## Problem Domain
